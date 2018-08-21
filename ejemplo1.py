@@ -6,7 +6,7 @@ def max (n1, n2):
     else:
         print ("Son demasiado iguales")
 
-max(5, 5)
+max(2, 4)
 
 
 
